@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "14456092816",
+    "project_id": "datn-1ade7",
+    "storage_bucket": "datn-1ade7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14456092816:android:0efa5e464e577c23180015",
+        "android_client_info": {
+          "package_name": "com.datn.quan_ly_rac_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14456092816-60vs2mref0ukqf8mmhh5avnp5i4ovu67.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.datn.quan_ly_rac_app",
+            "certificate_hash": "9e499a004d7d5662b3c93f8c59f5739d40cf8b75"
+          }
+        },
+        {
+          "client_id": "14456092816-tg6dqd8orqrqirfafjdpec22qgfqi85o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBniv13hSV_0mWOVbta8ZvXxI2gxIJGUB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14456092816-tg6dqd8orqrqirfafjdpec22qgfqi85o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
